@@ -1,6 +1,8 @@
 #BlueJ class context
 comment0.params=slope\ yIntercept
-comment0.target=Line(double,\ double)
+comment0.target=void\ Line(double,\ double)
+comment0.text=\r\n\ Description\:\ Defines\ the\ slope\ and\ y-intercept,\ and\ creates\ the\ line.\r\n\ Input\:\ double\ slope,\ double\ yIntercept\r\n\ Output\:\ void\r\n\ Purpose\:\ To\ create\ the\ line.\r\n\ Example\:\ 3.5\ 9\r\n
 comment1.params=
 comment1.target=void\ getLineEquation()
+comment1.text=\r\n\ Description\:\ Prints\ out\ the\ line\ created.\r\n\ Input\:\ none\r\n\ Output\:\ void\r\n\ Purpose\:\ To\ show\ the\ user\ the\ line.\r\n\ Example\:\ y\ \=\ 3.5x\ +\ 9\r\n
 numComments=2
