@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=slope\ yIntercept
+comment0.target=Line(double,\ double)
+comment1.params=
+comment1.target=void\ getLineEquation()
+numComments=2
